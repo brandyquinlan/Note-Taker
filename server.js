@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const logger = require('../Develop/middleware/logger');
+const logger = require('./Develop/middleware/logger');
 
 // Tells node that we are creating an "express" server
 const app = express();
@@ -17,8 +17,8 @@ app.use(express.static(path.join(__dirname, '/public')));
 app.use(logger);
 
 // Maps to routes
-require('./routes/apiRoutes')(app);
-require('./routes/htmlRoutes')(app);
+require('./Develop/routes/apiRoutes')(app);
+require('./Develop/routes/htmlRoutes')(app);
 
 // API Routes. Sets an initial port.
 const PORT = process.env.PORT || 8080;
