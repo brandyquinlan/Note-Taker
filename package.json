@@ -16,5 +16,13 @@
         "path": "^0.12.7"
     },
     "keywords": [],
-    "description": ""
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brandyquinlan/HW11_Note_Taker.git"
+    },
+    "bugs": {
+        "url": "https://github.com/brandyquinlan/HW11_Note_Taker/issues"
+    },
+    "homepage": "https://github.com/brandyquinlan/HW11_Note_Taker/"
 }
