@@ -5,9 +5,6 @@
 - [Description](#program-description)
 - [Installation](#installation-instructions)
 - [Usage](#usage-information) 
-- [License](#licenses) 
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [DEMO VIDEO](#DEMO)
 - [Screenshots](#screenshots)
 - [Questions](#questions)
@@ -26,14 +23,6 @@ An application called Note Taker that can be used to write and save notes. It us
 
 ### Usage information
   To use the application, run the command "node server.js"
-
-### Licenses
-  none
-
-### Contributing
-  none
-
-## Tests
  
 ## DEMO
 * [Link to demo - https://drive.google.com/file/d/1jwXJ7E5pGla5IsqtbtQFy5oEWfJF2Gd-/view?usp=sharing](https://drive.google.com/file/d/1jwXJ7E5pGla5IsqtbtQFy5oEWfJF2Gd-/view?usp=sharing)
