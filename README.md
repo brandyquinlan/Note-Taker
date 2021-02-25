@@ -13,11 +13,11 @@
 An application called Note Taker that can be used to write and save notes. It uses an Express.js back end and saves and retrieves note data from a JSON file. The app has been deployed to Heroku.
 
 ## URL and Repo Location
-#### The url for the site is:
-* [link to Heroku deployed site - https://salty-reef-55479.herokuapp.com/](https://salty-reef-55479.herokuapp.com/)
-* [link to GitHub deployed site - https://brandyquinlan.github.io/HW11_Note_Taker/](https://brandyquinlan.github.io/HW11_Note_Taker/)<br>
+#### The urls for Note Taker are:
+* [Link to Heroku deployed site - https://salty-reef-55479.herokuapp.com/](https://salty-reef-55479.herokuapp.com/)
+* [Link to GitHub deployed site - https://brandyquinlan.github.io/HW11_Note_Taker/](https://brandyquinlan.github.io/HW11_Note_Taker/)<br>
 #### The repo is located here: 
-* [link to repo - https://github.com/brandyquinlan/HW11_Note_Taker/](https://github.com/brandyquinlan/HW11_Note_Taker/)
+* [Link to repo - https://github.com/brandyquinlan/HW11_Note_Taker/](https://github.com/brandyquinlan/HW11_Note_Taker/)
 
 ## Installation Instructions
   Run the command "npm i" to install dependencies
@@ -37,7 +37,7 @@ An application called Note Taker that can be used to write and save notes. It us
 ### Note Taker Save Button
 ![note taker save button](Assets/note-taker-save.png)
 ### Note Taker Deployed to Heroku
-* [link to Heroku deployed site - https://salty-reef-55479.herokuapp.com/](https://salty-reef-55479.herokuapp.com/)<br>
+[link to Heroku deployed site - https://salty-reef-55479.herokuapp.com/](https://salty-reef-55479.herokuapp.com/)<br>
 ![note taker heroku deploy](Assets/note-taker-heroku.png)
 
 ### User Story
