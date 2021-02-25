@@ -37,7 +37,7 @@ An application called Note Taker that can be used to write and save notes. It us
 ### Note Taker Save Button
 ![note taker save button](Assets/note-taker-save.png)
 ### Note Taker Deployed to Heroku
-* [link to Heroku deployed site - https://salty-reef-55479.herokuapp.com/](https://salty-reef-55479.herokuapp.com/)
+* [link to Heroku deployed site - https://salty-reef-55479.herokuapp.com/](https://salty-reef-55479.herokuapp.com/)<br>
 ![note taker heroku deploy](Assets/note-taker-heroku.png)
 
 ### User Story
