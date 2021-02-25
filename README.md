@@ -14,7 +14,8 @@ An application called Note Taker that can be used to write and save notes. It us
 
 ## URL and Repo Location
 #### The url for the site is:
-* [link to deployed site - https://brandyquinlan.github.io/HW11_Note_Taker/](https://brandyquinlan.github.io/HW11_Note_Taker/)
+* [link to Heroku deployed site - https://salty-reef-55479.herokuapp.com/](https://salty-reef-55479.herokuapp.com/)
+* [link to GitHub deployed site - https://brandyquinlan.github.io/HW11_Note_Taker/](https://brandyquinlan.github.io/HW11_Note_Taker/server.js)<br>
 #### The repo is located here: 
 * [link to repo - https://github.com/brandyquinlan/HW11_Note_Taker/](https://github.com/brandyquinlan/HW11_Note_Taker/)
 
