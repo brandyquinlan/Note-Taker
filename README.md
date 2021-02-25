@@ -17,9 +17,9 @@ An application called Note Taker that can be used to write and save notes. It us
 
 ## URL and Repo Location
 #### The url for the site is:
-* [link to deployed site](https://brandyquinlan.github.io/HW11_Note_Taker/)
+* [link to deployed site - https://brandyquinlan.github.io/HW11_Note_Taker/](https://brandyquinlan.github.io/HW11_Note_Taker/)
 #### The repo is located here: 
-* [link to repo](https://github.com/brandyquinlan/HW11_Note_Taker/)
+* [link to repo - https://github.com/brandyquinlan/HW11_Note_Taker/](https://github.com/brandyquinlan/HW11_Note_Taker/)
 
 ## Installation Instructions
   Run the command "npm i" to install dependencies
@@ -36,7 +36,7 @@ An application called Note Taker that can be used to write and save notes. It us
 ## Tests
  
 ## DEMO
-* [Link to demo](https://drive.google.com/file/d/1jwXJ7E5pGla5IsqtbtQFy5oEWfJF2Gd-/view?usp=sharing)
+* [Link to demo - https://drive.google.com/file/d/1jwXJ7E5pGla5IsqtbtQFy5oEWfJF2Gd-/view?usp=sharing](https://drive.google.com/file/d/1jwXJ7E5pGla5IsqtbtQFy5oEWfJF2Gd-/view?usp=sharing)
 
 ## Screenshots
 
