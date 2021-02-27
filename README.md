@@ -70,4 +70,4 @@ Brandy Quinlan
 <br>
 Email: <brandyquinlan@gmail.com>
 <br>
-[Github link: https://github.com/brandyquinlan/](https://github.com/brandyquinlan/)
+Github link: [https://github.com/brandyquinlan/](https://github.com/brandyquinlan/)
