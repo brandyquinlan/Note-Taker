@@ -67,5 +67,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 Please contact me with questions:
 
 Brandy Quinlan
-Email: <brandyquinlan@gmail.com><br>
-[Github link:](https://github.com/brandyquinlan/)
+<br>
+Email: <brandyquinlan@gmail.com>
+<br>
+[Github link: https://github.com/brandyquinlan/](https://github.com/brandyquinlan/)
