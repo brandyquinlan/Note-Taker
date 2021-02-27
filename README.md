@@ -65,8 +65,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 
 ## Questions
 Please contact me with questions:
-```
+
 Brandy Quinlan
 Email: <brandyquinlan@gmail.com>
-Github link: brandyquinlan
-```
+![Github link:](https://github.com/brandyquinlan/)
