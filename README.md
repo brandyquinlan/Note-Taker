@@ -16,7 +16,7 @@ An application called Note Taker that can be used to write and save notes. It us
 #### The urls for Note Taker are:
 * [Link to Heroku deployed site - https://quinlan-note-taker.herokuapp.com/](https://quinlan-note-taker.herokuapp.com/)
 #### The repo is located here: 
-* [Link to repo - https://github.com/brandyquinlan/HW11_Note_Taker/](https://github.com/brandyquinlan/HW11_Note_Taker/)
+* [Link to repo - https://github.com/brandyquinlan/Note-Taker/](https://github.com/brandyquinlan/Note-Taker/)
 
 ## Installation Instructions
   Run the command "npm i" to install dependencies
